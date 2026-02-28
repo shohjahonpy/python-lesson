@@ -1,1 +1,1 @@
-# python-lesson
+ushbu repositoryda python darslariga tegishli kodlar jamlangan
